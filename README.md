@@ -361,7 +361,7 @@ Potential next steps:
 - Authentication and multi-tenancy
 - Persistent feedback analytics
 - Retrieval/answer quality evaluation
-- Prompt and model versioning
+- Prompt and model versionings
 - Cost and latency monitoring
 - AI quality dashboards
 - Human review workflows
@@ -369,10 +369,5 @@ Potential next steps:
 
 See [`docs/PRODUCT_CASE_STUDY.md`](docs/PRODUCT_CASE_STUDY.md) for the full roadmap.
 
-## 16. Attribution & License
-
-Original demo concept/source: **OpenObserve LangChain/LlamaIndex tracing demo**.
-
-This repository retains the original Apache 2.0 license and attribution. Portfolio-specific documentation and developer-experience improvements have been added around the reference implementation.
-
+## 16.License
 License: Apache License 2.0. See [`LICENSE`](LICENSE).
