@@ -370,4 +370,4 @@ Potential next steps:
 See [`docs/PRODUCT_CASE_STUDY.md`](docs/PRODUCT_CASE_STUDY.md) for the full roadmap.
 
 ## 16.License
-License: Apache License 2.0. See [`LICENSE`](LICENSE).
+License: Apache License 2.0.
