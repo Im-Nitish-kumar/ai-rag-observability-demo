@@ -184,7 +184,12 @@ macOS/Linux:
 ```bash
 cp .env.example .env
 ```
+Generate your OPENOBSERVE_AUTH_TOKEN:
 
+echo -n "you@example.com:yourpassword" | base64
+Then set it in .env as:
+
+OPENOBSERVE_AUTH_TOKEN=Basic <base64-value>
 Add your own credentials to `.env`.
 
 **Never commit `.env`.**
